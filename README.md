@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm [Zsombor]! 👋
 
-<!--
-**torozsom/torozsom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+I'm a sophomore at **Budapest University of Technology and Economics (BME)**, pursuing a degree in **Engineering in Computer Sciences**. My passion lies in solving problems through programming and continuously learning about new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🎓 **Education**: Sophomore, Engineering in Computer Sciences at BME.
+- 💻 **Programming Languages**: C, C++, C#, Java, Python.
+- 🔭 **Current Focus**: Enhancing my skills in software development and working on exciting personal and academic projects.
+- 🌱 **Learning Goals**: Exploring advanced topics in software engineering, algorithms, and data structures.
+
+---
+
+### 🌟 Projects
+
+Here are some of my recent projects:
+
+1. **Bank Management System**
+   - Developed a system to manage banking operations with Java Swing and SQLite.
+
+2. **Numerical Integrator**
+   - Built a program that allows users to numerically integrate RPN functions in C with GTK.
+
+3. **Geometric Shapes**
+   -  Implemented a code which allows to do gemoetric transformations on different shapes on the 2D plane in C++.
+
+- **Tools & Technologies**:
+  - Git, SQLite, Java Swing, Qt, GTK
+
+---
+
+### 📫 Get in Touch
+
+- 📧 Email: [toronyizsombi@gmail.com]
+- 📸 Instagram: [@toronyi_zsombor](#)
+- 📞 Phone: [+36 20 287 6459]
+
+Let's collaborate and build something awesome together! 🚀
+
