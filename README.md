@@ -38,7 +38,8 @@ Here are some of my recent projects:
 - 📧 Email: [toronyizsombi@gmail.com]
 - 📸 Instagram: [@toronyi_zsombor](#)
 - 📞 Phone: [+36 20 287 6459]
-
+- 🎮 Discord: [wildhunter93](#)
+  
 Let's collaborate and build something awesome together! 🚀
 
 ---
