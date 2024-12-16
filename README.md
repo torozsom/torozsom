@@ -41,3 +41,8 @@ Here are some of my recent projects:
 
 Let's collaborate and build something awesome together! 🚀
 
+---
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=torozsom&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=torozsom&layout=compact&theme=tokyonight)
