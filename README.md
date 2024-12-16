@@ -1,4 +1,4 @@
-# Hi there, I'm [Zsombor]! 👋
+# Hi there, I'm Zsombor! 👋
 
 Welcome to my GitHub profile! 
 
