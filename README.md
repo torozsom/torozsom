@@ -9,7 +9,7 @@ I'm a sophomore at **Budapest University of Technology and Economics (BME)**, pu
 ### 🚀 About Me
 
 - 🎓 **Education**: Sophomore, Engineering in Computer Sciences at BME.
-- 💻 **Programming Languages**: C, C++, C#, Java, Python.
+- 💻 **Programming Languages**: C, C++, Java, Python.
 - 🔭 **Current Focus**: Enhancing my skills in software development and working on exciting personal and academic projects.
 - 🌱 **Learning Goals**: Exploring advanced topics in software engineering, algorithms, and data structures.
 
