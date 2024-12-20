@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 
 
-I'm a 2nd year at **Budapest University of Technology and Economics (BME)**, pursuing a degree in **Engineering in Computer Sciences**. My passion lies in solving problems through programming and continuously learning about new technologies.
+I'm a 2nd year student at **Budapest University of Technology and Economics (BME)**, pursuing a degree in **Engineering in Computer Sciences**. My passion lies in solving problems through programming and continuously learning about new technologies.
 
 ---
 
