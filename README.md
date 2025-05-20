@@ -9,9 +9,9 @@ I'm a 2nd year student at **Budapest University of Technology and Economics (BME
 ### 🚀 About Me
 
 - 🎓 **Education**: Sophomore, Engineering in Computer Sciences at BME.
-- 💻 **Programming Languages**: C, C++, Java, Python.
+- 💻 **Programming Languages**: C, C++, C#, Java, JavaScript, Python.
 - 🔭 **Current Focus**: Enhancing my skills in software development and working on exciting personal and academic projects.
-- 🌱 **Learning Goals**: Exploring advanced topics in software engineering, algorithms, and data structures.
+- 🌱 **Learning Goals**: Exploring advanced topics in software engineering and web development.
 
 ---
 
@@ -23,13 +23,13 @@ Here are some of my recent projects:
    - Developed a system to manage banking operations with Java Swing and SQLite.
 
 2. **Numerical Integrator**
-   - Built a program that allows users to numerically integrate RPN functions in C with GTK.
+   - Built a program that allows users to numerically integrate RPN functions in C with a GTK GUI.
 
 3. **Geometric Shapes**
-   -  Implemented a code which allows to do gemoetric transformations on different shapes on the 2D plane in C++.
+   -  Implemented a program which allows to do gemoetric transformations on different shapes on the 2D plane in C++.
 
 - **Tools & Technologies**:
-  - Git, SQLite, Java Swing, Qt, GTK
+  - Git, SQLite, Java Swing, Qt, GTK, Node.js, OpenGL, WinUI
 
 ---
 
