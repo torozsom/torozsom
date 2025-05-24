@@ -20,16 +20,19 @@ I'm a 2nd year student at **Budapest University of Technology and Economics (BME
 Here are some of my recent projects:
 
 1. **Bank Management System**
-   - Developed a system to manage banking operations with Java Swing and SQLite.
+   - Developed a system to manage banking operations with Java, Swing and SQLite.
 
 2. **Numerical Integrator**
    - Built a program that allows users to numerically integrate RPN functions in C with a GTK GUI.
 
 3. **Geometric Shapes**
-   -  Implemented a program which allows to do gemoetric transformations on different shapes on the 2D plane in C++.
+   -  Implemented a program which allows to do gemoetric transformations on different (algebraic) shapes on the 2D plane in C++.
+
+4. **MnB ReviewSite**
+   - A web application (JS, Node.js, MongoDB) which allows users to review movies and books with extra functionality if logged in.
 
 - **Tools & Technologies**:
-  - Git, SQLite, Java Swing, Qt, GTK, Node.js, OpenGL, WinUI
+  - Git, SQLite, MongoDB, Java Swing, Qt, GTK, Node.js, OpenGL, WinUI
 
 ---
 
