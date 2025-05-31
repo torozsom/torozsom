@@ -32,7 +32,7 @@ Here are some of my recent projects:
    - A web application (JS, Node.js, MongoDB) which allows users to review movies and books with extra functionality if logged in.
 
 - **Tools & Technologies**:
-  - Git, SQLite, MongoDB, Java Swing, Qt, GTK, Node.js, OpenGL, WinUI
+  - SQLite, MySQL, MongoDB, Node.js, Mongoose, Multer, Axios, Express.js, Bootstrap, EJS, OpenGL/GLSL, Java Swing, GTK, Qt, WinUI, Git
 
 ---
 
