@@ -2,13 +2,13 @@
 
 Welcome to my GitHub profile! 
 
-I'm a 2nd year student at **Budapest University of Technology and Economics (BME)**, pursuing a degree in **Engineering in Computer Sciences**. My passion lies in solving problems through programming and continuously learning about new technologies.
+I'm a 3rd year student at **Budapest University of Technology and Economics (BME)**, pursuing a degree in **Engineering in Computer Sciences**. My passion lies in solving problems through programming and continuously learning about new technologies.
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 **Education**: 2nd year, Engineering in Computer Sciences at BME.
+- 🎓 **Education**: 3rd year, Engineering in Computer Sciences at BME.
 - 💻 **Programming Languages**: C, C++, C#, Java, JavaScript, Python.
 - 🔭 **Current Focus**: Enhancing my skills in software development and working on exciting personal and academic projects.
 - 🌱 **Learning Goals**: Exploring advanced topics in software engineering and web development.
@@ -38,9 +38,9 @@ Here are some of my recent projects:
 
 ### 📫 Get in Touch
 
-- 📧 Email: [toronyizsombi@gmail.com]
-- 📸 Instagram: [@toronyi_zsombor](#)
-- 📞 Phone: [+36 20 287 6459]
+- 📧 Email: [toronyi.zsombor.dev@gmail.com]
+- 📸 Instagram: [@toronyi_zsombor](https://www.instagram.com/toronyi_zsombor)
+- 📞 Phone: [+36 20 287 6459](#)
   
 Let's collaborate and build something awesome together! 🚀
 
