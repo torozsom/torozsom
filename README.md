@@ -38,9 +38,9 @@ Here are some of my recent projects:
 
 ### 📫 Get in Touch
 
-- 📧 Email: [toronyi.zsombor.dev@gmail.com]
+- 📧 Email: toronyi.zsombor.dev@gmail.com
 - 📸 Instagram: [@toronyi_zsombor](https://www.instagram.com/toronyi_zsombor)
-- 📞 Phone: [+36 20 287 6459](#)
+- 📞 Phone: +36 20 287 6459
   
 Let's collaborate and build something awesome together! 🚀
 
