@@ -26,7 +26,7 @@ Here are some of my recent projects:
    - Built a program that allows users to numerically integrate RPN functions in C with a GTK GUI.
 
 3. **Geometric Shapes**
-   -  Implemented a program which allows to do gemoetric transformations on different (algebraic) shapes on the 2D plane in C++.
+   -  Implemented a program which allows to do geometric transformations on different (algebraic) shapes on the 2D plane in C++.
 
 4. **MnB ReviewSite**
    - A web application (JS, Node.js, MongoDB) which allows users to review movies and books with extra functionality if logged in.
@@ -39,7 +39,7 @@ Here are some of my recent projects:
 
 ### Languages, Tools & Technologies
 
-  <p align="left">
+  <p align="center">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
@@ -50,7 +50,7 @@ Here are some of my recent projects:
 
   - Also studied Assembly and Verilog.
 
-  <p align="left">
+  <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
