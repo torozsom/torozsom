@@ -40,7 +40,7 @@ Here are some of my recent projects:
 
 - 📧 Email: toronyi.zsombor.dev@gmail.com
 - 📸 Instagram: [@toronyi_zsombor](https://www.instagram.com/toronyi_zsombor)
-- 📞 Phone: +36 20 287 6459
+- 🧑‍💼 LinkedIn: [Zsombor Toronyi](https://www.linkedin.com/in/zsombor-toronyi-a7927b34a)
   
 Let's collaborate and build something awesome together! 🚀
 
