@@ -19,21 +19,18 @@ I'm a 3rd year student at **Budapest University of Technology and Economics (BME
 
 Here are some of my recent projects:
 
-1. **Bank Management System**
-   - Developed a desktop app to simulate an online banking type of environment with Java, Swing and SQLite.
+1. **Bank Management System (Java, Swing SQLite)**
+   - Developed a desktop app to simulate an online banking type of environment.
 
-2. **Numerical Integrator**
-   - Built a program that allows users to numerically integrate RPN functions in C with a GTK GUI.
+2. **Numerical Integrator (C, GTK)**
+   - Built a program that allows users to numerically integrate RPN functions.
 
-3. **Geometric Shapes**
-   -  Implemented a program which allows to do geometric transformations on different (algebraic) shapes on the 2D plane in C++.
+3. **Data Structures & Algorithms (C++, Qt)**
+   -  This project contains highly efficient data structures built from scratch and visualization of algorithms.
+   -  *Still under development.*
 
-4. **MnB ReviewSite**
-   - A web application (JS, Node.js, MongoDB) which allows users to review movies and books with extra functionality if logged in.
-
-**Under development**
-   - A C++ app to visualize algorithms on efficiently implemented data structures.
-   - A web app for a restaurant to make online table booking and other features possible.
+4. **MnB ReviewSite (JavaScript, Node.js, MongoDB)**
+   - A web application which allows users to review movies and books with extra functionality if logged in.
 
 ---
 
