@@ -1,4 +1,4 @@
-# Hi there, I'm Zsombor! 👋
+# Hi there, I'm Zsombor!
 
 Welcome to my GitHub profile! 
 
@@ -6,7 +6,7 @@ I'm a 3rd year student at **Budapest University of Technology and Economics (BME
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 🎓 **Education**: 3rd year, Engineering in Computer Sciences at BME.
 - 💻 **Programming Languages**: C, C++, C#, Java, JavaScript, Python.
@@ -15,7 +15,7 @@ I'm a 3rd year student at **Budapest University of Technology and Economics (BME
 
 ---
 
-### 🌟 Projects
+### Projects
 
 Here are some of my recent projects:
 
@@ -79,7 +79,7 @@ Here are some of my recent projects:
 
 ---
 
-### 📫 Get in Touch
+### Get in Touch
 
 - 📧 Email: toronyi.zsombor.dev@gmail.com
 - 📸 Instagram: [@toronyi_zsombor](https://www.instagram.com/toronyi_zsombor)
