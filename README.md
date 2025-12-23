@@ -63,6 +63,7 @@ Here are some of my recent projects:
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="40" height="40" alt="JQuery"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg" width="40" height="40" alt="NPM"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="Fast API"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" width="40" height="40" alt="Swagger"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
@@ -89,7 +90,7 @@ Here are some of my recent projects:
     <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="40" height="40" alt="JetBrains"/>  
   </p>
 
-  - SQLite, MySQL, MongoDB, SQL Developer, MS SQL, Entity Framework, Spring Data, GraphQL, JQuery, Node.js, NPM, Fast API, Swagger, Postman, Jest, Axios, Mongoose, Express.js, Bootstrap, .NET, Kotlin, OpenGL, Qt, Git, GitHub, Maven, CMake, Gradle, Docker, Grafana, Prometheus, Qodana, Visual Studio, VS Code, JetBrains IDEs, EJS, Multer, WinUI
+  - SQLite, MySQL, MongoDB, SQL Developer, MS SQL, Entity Framework, Spring Data, GraphQL, JQuery, Node.js, NPM, React, Fast API, Swagger, Postman, Jest, Axios, Mongoose, Express.js, Bootstrap, .NET, Kotlin, OpenGL, Qt, Git, GitHub, Maven, CMake, Gradle, Docker, Grafana, Prometheus, Qodana, Visual Studio, VS Code, JetBrains IDEs, EJS, Multer, WinUI
 
 ---
 
