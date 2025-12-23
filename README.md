@@ -90,7 +90,6 @@ Here are some of my recent projects:
     <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="40" height="40" alt="JetBrains"/>  
   </p>
 
-  - SQLite, MySQL, MongoDB, SQL Developer, MS SQL, Entity Framework, Spring Data, GraphQL, JQuery, Node.js, NPM, React, Fast API, Swagger, Postman, Jest, Axios, Mongoose, Express.js, Bootstrap, .NET, Kotlin, OpenGL, Qt, Git, GitHub, Maven, CMake, Gradle, Docker, Grafana, Prometheus, Qodana, Visual Studio, VS Code, JetBrains IDEs, EJS, Multer, WinUI
 
 ---
 
