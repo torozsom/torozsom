@@ -8,7 +8,7 @@ I'm a 3rd year student at **Budapest University of Technology and Economics (BME
 
 ### About Me
 
-- 🎓 **Education**: 5th semester, Engineering in Computer Sciences at BME.
+- 🎓 **Education**: 6th semester, Engineering in Computer Sciences at BME.
 - 💻 **Programming Languages**: C, C++, C#, Java, JavaScript, Python.
 - 🔭 **Current Focus**: Enhancing my skills in software development and working on exciting personal and academic projects.
 - 🌱 **Learning Goals**: Exploring advanced topics in software engineering and web development.
