@@ -15,13 +15,10 @@ Welcome to my GitHub profile, I'm Zsombor!
 
 Here are some of my recent projects:
 
-1. **Bank Management System (Java, JavaFX, SQLite)**
-
-2. **Numerical Integrator (C, GTK)**
-
-3. **Data Structures & Algorithms (C++, Qt)**
-
-4. **MnB ReviewSite (JavaScript, Node.js, Express, MongoDB)**
+- **Bank Management System (Java, JavaFX, SQLite)**
+- **Numerical Integrator (C, GTK)**
+- **Data Structures & Algorithms (C++, Qt)**
+- **MnB ReviewSite (JavaScript, Node.js, Express, MongoDB)**
 
 
 ### Languages
@@ -36,7 +33,7 @@ Here are some of my recent projects:
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   </p>
 
-  - Also studied Assembly, Verilog, Prolog and Elixir
+<i>Also studied Assembly, Verilog, Prolog and Elixir</i>
 
 
 ### Tools & Technologies
