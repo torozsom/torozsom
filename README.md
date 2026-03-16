@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile, I'm Zsombor! 
 
----
 
 ### About Me
 
@@ -11,26 +10,19 @@ Welcome to my GitHub profile, I'm Zsombor!
 - 🔭 **Current Focus**: Enhancing my skills in software development and working on exciting personal and academic projects.
 - 🌱 **Learning Goals**: Exploring advanced topics in software engineering and web development.
 
----
 
 ### Projects
 
 Here are some of my recent projects:
 
 1. **Bank Management System (Java, JavaFX, SQLite)**
-   - Developed a desktop app to simulate an online banking type of environment.
 
 2. **Numerical Integrator (C, GTK)**
-   - Built a program that allows users to numerically integrate RPN functions.
 
 3. **Data Structures & Algorithms (C++, Qt)**
-   -  This project contains highly efficient data structures built from scratch and visualization of algorithms.
-   -  *Still under development.*
 
 4. **MnB ReviewSite (JavaScript, Node.js, Express, MongoDB)**
-   - A web application which allows users to review movies and books with extra functionality if logged in.
 
----
 
 ### Languages
 
