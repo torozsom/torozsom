@@ -2,24 +2,24 @@
 
 Welcome to my GitHub profile, I'm Zsombor! 
 
-
 ### About Me
 
 - 🎓 **Education**: 6th semester, Engineering in Computer Sciences at BME.
-- 💻 **Programming Languages**: C, C++, C#, Java, JavaScript, Python.
-- 🔭 **Current Focus**: Enhancing my skills in software development and working on exciting personal and academic projects.
+- 💻 **Programming Languages**: C#, C++, C, Java, JavaScript, Python.
+- 🔭 **Current Focus**: Working on my thesis and exciting personal or academic projects.
 - 🌱 **Learning Goals**: Exploring advanced topics in software engineering and web development.
-
 
 ### Projects
 
 Here are some of my recent projects:
 
-- **Bank Management System (Java, JavaFX, SQLite)**
+- **Desktop Bank App (Java, JavaFX, SQLite)**
 - **Numerical Integrator (C, GTK)**
 - **Data Structures & Algorithms (C++, Qt)**
-- **MnB ReviewSite (JavaScript, Node.js, Express, MongoDB)**
-
+- **Movie & Book Review Website (Node.js, Express, MongoDB)**
+- **Recipe Manager Web App (React)**
+- **Object Detector Camera App (Kotlin)**
+- <i>Currently developing my thesis work, see:</i> **AutoMate (C#, .NET 10)**
 
 ### Languages
 
@@ -34,7 +34,6 @@ Here are some of my recent projects:
   </p>
 
 <i>Also studied Assembly, Verilog, Prolog and Elixir</i>
-
 
 ### Tools & Technologies
 
