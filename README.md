@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile, I'm Zsombor! 
 
-I'm a 3rd year student at **Budapest University of Technology and Economics (BME)**, pursuing a degree in **Engineering in Computer Sciences**. My passion lies in solving problems through programming and continuously learning about new technologies.
-
 ---
 
 ### About Me
@@ -19,7 +17,7 @@ I'm a 3rd year student at **Budapest University of Technology and Economics (BME
 
 Here are some of my recent projects:
 
-1. **Bank Management System (Java, Swing, SQLite)**
+1. **Bank Management System (Java, JavaFX, SQLite)**
    - Developed a desktop app to simulate an online banking type of environment.
 
 2. **Numerical Integrator (C, GTK)**
@@ -29,17 +27,17 @@ Here are some of my recent projects:
    -  This project contains highly efficient data structures built from scratch and visualization of algorithms.
    -  *Still under development.*
 
-4. **MnB ReviewSite (JavaScript, Node.js, MongoDB)**
+4. **MnB ReviewSite (JavaScript, Node.js, Express, MongoDB)**
    - A web application which allows users to review movies and books with extra functionality if logged in.
 
 ---
 
 ### Languages
 
-  <p align="center">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <p align="center">    
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
@@ -89,16 +87,3 @@ Here are some of my recent projects:
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="40" height="40" alt="JetBrains"/>  
   </p>
-
-
----
-
-### Get in Touch
-
-- 📧 Email: toronyi.zsombor.dev@gmail.com
-- 📸 Instagram: [@toronyi_zsombor](https://www.instagram.com/toronyi_zsombor)
-- 🧑‍💼 LinkedIn: [Zsombor Toronyi](https://www.linkedin.com/in/zsombor-toronyi-a7927b34a)
-  
-Let's collaborate and build something awesome together! 🚀
-
----
