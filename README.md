@@ -9,6 +9,8 @@ Welcome to my GitHub profile, I'm Zsombor!
 - 🔭 **Current Focus**: Working on my thesis and exciting personal or academic projects.
 - 🌱 **Learning Goals**: Exploring advanced topics in software engineering and web development.
 
+---
+
 ### Projects
 
 Here are some of my recent projects:
@@ -20,6 +22,8 @@ Here are some of my recent projects:
 - **Recipe Manager Web App (React)**
 - **Object Detector Camera App (Kotlin)**
 - <i>Currently developing my thesis work, see:</i> **AutoMate (C#, .NET 10)**
+
+---
 
 ### Languages
 
