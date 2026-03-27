@@ -5,7 +5,7 @@ Welcome to my GitHub profile, I'm Zsombor!
 ### About Me
 
 - 🎓 **Education**: 6th semester, Engineering in Computer Sciences at BME.
-- 💻 **Programming Languages**: C#, C++, C, Java, JavaScript, Python.
+- 💻 **Programming Languages**: C#, C++, C, Java, JS, TS, Python.
 - 🔭 **Current Focus**: Working on my thesis and exciting personal or academic projects.
 - 🌱 **Learning Goals**: Exploring advanced topics in software engineering and web development.
 
@@ -15,13 +15,36 @@ Welcome to my GitHub profile, I'm Zsombor!
 
 Here are some of my recent projects:
 
-- **Desktop Bank App (Java, JavaFX, SQLite)**
-- **Numerical Integrator (C, GTK)**
-- **Data Structures & Algorithms (C++, Qt)**
-- **Movie & Book Review Website (Node.js, Express, MongoDB)**
-- **Recipe Manager Web App (React)**
-- **Object Detector Camera App (Kotlin)**
-- <i>Currently developing my thesis work, see:</i> **AutoMate (C#, .NET 10)**
+  <table>
+    <th>App Name</th>
+    <th>Technology</th>
+    <tr>
+      <td>Desktop Bank App</td>
+      <td>Java, JavaFX, SQLite</td>
+    </tr>
+    <tr>
+      <td>Movie & Book Review Website</td>
+      <td>Node.js, Express, MongoDB</td>
+    </tr>
+    <tr>
+      <td>Recipe Manager Web App</td>
+      <td>React, Web Speech API</td>
+    </tr>
+    <tr>
+      <td>Numerical Integrator</td>
+      <td>C, GTK</td>
+    </tr>
+    <tr>
+      <td>Data Structures & Algorithms</td>
+      <td>C++, Qt</td>
+    </tr>
+    <tr>
+      <td>Object Detector Camera App</td>
+      <td>Kotlin</td>
+    </tr>
+  </table>
+  
+<i>Currently developing my thesis work, see:</i> <b>AutoMate (C#, .NET 10)</b>
 
 ---
 
