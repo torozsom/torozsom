@@ -19,32 +19,35 @@ Here are some of my recent projects:
     <th>App Name</th>
     <th>Technology</th>
     <tr>
-      <td>Desktop Bank App</td>
+      <td><a href="https://github.com/torozsom/Bank-Management-System.git">Desktop Bank App</a></td>
       <td>Java, JavaFX, SQLite</td>
     </tr>
     <tr>
-      <td>Movie & Book Review Website</td>
+      <td><a href="https://github.com/torozsom/Movie-and-Book-Review-Site.git">Movie & Book Review Website</a></td>
       <td>Node.js, Express, MongoDB</td>
     </tr>
     <tr>
-      <td>Recipe Manager Web App</td>
+      <td><a href="https://github.com/torozsom/Recipe-React-App.git">Recipe Manager Web App</a></td>
       <td>React, Web Speech API</td>
     </tr>
     <tr>
-      <td>Numerical Integrator</td>
+      <td><a href="https://github.com/torozsom/Numerical-Integrator.git">Numerical Integrator</a></td>
       <td>C, GTK</td>
     </tr>
     <tr>
-      <td>Data Structures & Algorithms</td>
+      <td><a href="https://github.com/torozsom/Data-Structures-and-Algorithms.git">Data Structures & Algorithms</a></td>
       <td>C++, Qt</td>
     </tr>
     <tr>
-      <td>Object Detector Camera App</td>
-      <td>Kotlin</td>
+      <td><a href="https://github.com/torozsom/Object-Detector-Camera-App.git">Object Detector Camera App</a></td>
+      <td>Kotlin, Jetpack Compose, CameraX, Google ML Kit</td>
     </tr>
   </table>
   
-<i>Currently developing my thesis work, see:</i> <b>AutoMate (C#, .NET 10)</b>
+<p>
+  <i>Currently developing my thesis work, see:</i> <br />
+  <b><a href="https://github.com/torozsom/AutoMate.git">AutoMate</a> (C#, .NET 10, ASP.NET Core Blazor, EF, Postgres)</b>
+</p>
 
 ---
 
