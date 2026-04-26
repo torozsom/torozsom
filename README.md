@@ -4,12 +4,9 @@ Welcome to my GitHub profile, I'm Zsombor!
 
 ### About Me
 
-- 🎓 **Education**: 6th semester, Engineering in Computer Sciences at BME.
-- 💻 **Programming Languages**:
-  - Intermediate: C#, C++, JS, TS
-  - Beginner: C, Java, Python
-- 🔭 **Current Focus**: Working on my thesis and exciting personal or academic projects.
-- 🌱 **Learning Goals**: Exploring advanced topics in software engineering and web development.
+- **Education**: 6th semester, Engineering in Computer Sciences at BME.
+- **Current Focus**: Working on my thesis and exciting personal or academic projects.
+- **Learning Goals**: Exploring advanced topics in software engineering and web development.
 
 ---
 
