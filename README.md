@@ -72,10 +72,13 @@ Here are some of my recent projects:
     <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" width="40" height="40" alt="Maven"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width="40" height="40" alt="CMake"/>
   </p>
+  
+---
 
 ### Gallery
 
 <p align="center">
+  <img src="https://github.com/torozsom/AutoMate/blob/main/assets/webterminal.png" width="100%"/>
   <img src="https://github.com/torozsom/Bank-Management-System/blob/main/assets/main-window1.png" width="100%"/>
   <img src="https://github.com/torozsom/Movie-and-Book-Review-Site/blob/main/assets/mainpage.png" width="100%"/>
   <img src="https://github.com/torozsom/Recipe-React-App/blob/main/assets/mainpage.png" width="100%"/>
