@@ -53,40 +53,30 @@ Here are some of my recent projects:
 ### Languages
 
   <p align="center">    
-     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+     <img src="https://skillicons.dev/icons?i=cs,cpp,c,java,js,ts,py"/>
   </p>
-
-<i>Also studied Assembly, Verilog, Prolog and Elixir</i>
 
 ### Tools & Technologies
 
   <p align="center">
+    <img src="https://skillicons.dev/icons?i=dotnet,docker"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40" alt="SQL Developer"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg", width="40" height="40" alt="MS SQL"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/entityframeworkcore/entityframeworkcore-original.svg", width="40" height="40" alt="EF"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg" width="40" height="40" alt="NPM"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" width="40" height="40" alt="Swagger"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="40" height="40" alt="Qt"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" width="40" height="40" alt="Maven"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width="40" height="40" alt="CMake"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" width="40" height="40" alt="Gradle"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="40" height="40" alt="VisualStudio"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="40" height="40" alt="JetBrains"/>  
   </p>
+
+### Gallery
+
+<p align="center">
+  <img src="https://github.com/torozsom/Bank-Management-System/blob/main/assets/main-window1.png" width="100%"/>
+  <img src="https://github.com/torozsom/Movie-and-Book-Review-Site/blob/main/assets/mainpage.png" width="100%"/>
+  <img src="https://github.com/torozsom/Recipe-React-App/blob/main/assets/mainpage.png" width="100%"/>
+</p>
