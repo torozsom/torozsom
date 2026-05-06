@@ -64,7 +64,7 @@ Here are some of my recent projects:
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg", width="40" height="40" alt="MS SQL"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/entityframeworkcore/entityframeworkcore-original.svg", width="40" height="40" alt="EF"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg" width="40" height="40" alt="NPM"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" width="40" height="40" alt="NPM"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width="40" height="40" alt="Qt"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
