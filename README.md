@@ -81,5 +81,4 @@ Here are some of my recent projects:
   <img src="https://github.com/torozsom/AutoMate/blob/main/assets/webterminal.png" width="100%"/>
   <img src="https://github.com/torozsom/Bank-Management-System/blob/main/assets/main-window1.png" width="100%"/>
   <img src="https://github.com/torozsom/Movie-and-Book-Review-Site/blob/main/assets/mainpage.png" width="100%"/>
-  <img src="https://github.com/torozsom/Recipe-React-App/blob/main/assets/mainpage.png" width="100%"/>
 </p>
