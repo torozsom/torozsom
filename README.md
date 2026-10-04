@@ -4,9 +4,17 @@ Welcome to my GitHub profile, I'm Zsombor!
 
 ### About Me
 
-- **Education**: 6th semester, Engineering in Computer Sciences at BME.
-- **Current Focus**: Working on my thesis and exciting personal or academic projects.
-- **Learning Goals**: Exploring advanced topics in software engineering and web development.
+I am an AI Developer Intern at Evosoft Hungary, contributing to a central cybersecurity platform for Siemens. 
+
+My work focuses on designing and implementing LLM-powered features and Python+Angular-based fullstack solutions to streamline cybersecurity assessments, supplier reviews, and automated processes while also managing the project's cloud resources and workflows in Azure.
+
+Currently, I am in my last semester of university, developing my thesis work for the BSc degree. 
+
+My thesis work is a .NET-based fullstack application which serves as a DevOps Companion for Web Developers. It implements a platform where devs can seemlessly Deploy, Monitor and Manage their containerized web apps. You can take a look at it below.
+
+- **Education**: 7th semester, Engineering in Computer Sciences at BME.
+- **Current Focus**: Working on my thesis and exciting personal or academic projects, enhance my skills in my field of work.
+- **Learning Goals**: Exploring advanced topics in Fullstack Engineering, DevSecOps and Cloud Providers.
 
 ---
 
